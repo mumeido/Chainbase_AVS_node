@@ -1,4 +1,4 @@
-![Screenshot_1](https://pasteboard.co/hxRsLEby2lGA.png)
+![Screenshot_1](https://raw.githubusercontent.com/mumeido/Chainbase_AVS_node/main/AVS.png)
 # How to Setup an AVS Operator
 
 ## System Requirement
