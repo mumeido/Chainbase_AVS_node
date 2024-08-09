@@ -69,7 +69,7 @@ eigenlayer operator keys create --key-type ecdsa opr
 
 3- Save your wallet private key
 
-![image](https://github.com/user-attachments/assets/2fb1071a-04fd-4ceb-9d08-9cd3de1c877a)
+![image](https://raw.githubusercontent.com/mumeido/Chainbase_AVS_node/main/ESDA.PNG)
 
 4- `Ctrl+C+Enter+Enter` & save your wallet info
 
