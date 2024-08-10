@@ -126,7 +126,7 @@ nano operator.yaml
 
 5- Add your metadata.json raw url in github in front of `metadata-url`
 
-![Screenshot_158](https://github.com/user-attachments/assets/af8a4fe3-a5fe-48ff-a198-7e3e808ff07d)
+![Screenshot_158](https://raw.githubusercontent.com/mumeido/Chainbase_AVS_node/main/Metadatajson.PNG)
 
 
 ## 7. Run Eigenlayer holesky Node
@@ -137,7 +137,7 @@ eigenlayer operator register operator.yaml
 eigenlayer operator status operator.yaml
 ```
 
-![image](https://github.com/user-attachments/assets/6b30b646-dc18-4088-a199-bcb4e01c367a)
+![image](https://raw.githubusercontent.com/mumeido/Chainbase_AVS_node/main/Register.PNG)
 
 ## 8. Config Chainbase AVS
 **1- Create .env file**
@@ -304,7 +304,7 @@ chmod +x ./chainbase-avs.sh
 nano prometheus.yml
 ```
 
-![Screenshot_160](https://github.com/user-attachments/assets/ef211b71-7d62-47d5-ad67-64c39387287b)
+![Screenshot_160](https://raw.githubusercontent.com/mumeido/Chainbase_AVS_node/main/Prometheus.PNG)
 
 ## 9. Run Chainbase AVS
 1- Register AVS
@@ -312,14 +312,14 @@ nano prometheus.yml
 ./chainbase-avs.sh register
 ```
 
-![image](https://github.com/user-attachments/assets/167edddf-b49b-481c-820e-e199a15092da)
+![image](https://raw.githubusercontent.com/mumeido/Chainbase_AVS_node/main/run.PNG)
 
 2- Run AVS
 ```
 ./chainbase-avs.sh run
 ```
 
-![image](https://github.com/user-attachments/assets/ad1fee10-833c-4f6b-ab72-9cbcba01a3ea)
+![image](https://raw.githubusercontent.com/mumeido/Chainbase_AVS_node/main/Running.PNG)
 
 ## 10. Check AVS health
 **Check chainbase-node logs**
@@ -337,8 +337,6 @@ export PATH=$PATH:~/bin
 eigenlayer operator status operator.yaml
 ```
 
-![image](https://github.com/user-attachments/assets/5a1067f7-2db1-46b9-9492-f4fe53ddf530)
-
 
 **Check Operator Health**
 ```console
@@ -354,8 +352,6 @@ Check docker containers
 docker ps -a
 ```
 
-![image](https://github.com/user-attachments/assets/f2b9d3e2-8e4f-48d5-bb24-b1b5744c11d6)
-
 
 ## 11. Fill in the form
 https://forms.gle/w9h8Su87kEnDwRMA7
@@ -363,6 +359,6 @@ https://forms.gle/w9h8Su87kEnDwRMA7
 ## 12. Post your Operator address in discord
 https://discord.gg/chainbase
 
-![Screenshot_159](https://github.com/user-attachments/assets/11d73cd4-84c1-4b9d-b6d3-9ec959653656)
+![Screenshot_159](https://raw.githubusercontent.com/mumeido/Chainbase_AVS_node/main/ss.PNG)
 
 
